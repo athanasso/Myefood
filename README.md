@@ -1,3 +1,3 @@
 # My efood
 
-# An online food service website
+# An all in one restaurant-efood website
