@@ -3,6 +3,8 @@
     section { padding: 25px 0; }
 
     .contact-form { width: 100%; }
+
+    .main-nav { margin-left: -10px; }
 }
 
 /* phones to small tablets from 481 to 767px */
@@ -23,7 +25,6 @@
     .main-nav { 
         float: left; 
         margin-top: 35px;
-        margin-left: 25px;
     }
     .main-nav li { display: block; }
     .main-nav li a:link, .main-nav li a:visited {
